@@ -1,6 +1,3 @@
-# UK-Online-Retail-Company-Analysis
-Customer behavior and CLV analysis of UK Online Retail Dataset using Python and Power BI. Includes RFM segmentation, feature engineering, and XGBoost-enhanced CLV modeling.
-
 # UK Online Retail Analysis
 
 This project analyzes the **UK Online Retail Dataset** to study customer behavior, perform advanced sales analytics, and build **Customer Lifetime Value (CLV) models**. Both Power BI and Python were used for different parts of the analysis.
